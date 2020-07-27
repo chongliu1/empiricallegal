@@ -1,7 +1,6 @@
 ---
 title: SPC issued guidelines requesting judgments aligned with previous cases
-date: {{ date }}
-updated: {{ date }}
+date: 2020-07-27
 tags:
 - SPC
 - 类案检索
