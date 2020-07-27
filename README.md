@@ -23,8 +23,6 @@
 # Statue|法规
 
 * [SPC](./statue-spc.md)
-
-
 # Literature|文献
 
 # People|学者
