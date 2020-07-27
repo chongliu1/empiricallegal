@@ -9,12 +9,12 @@
 	</div>
 
 <p align="center">
-  <a href="#Statue|法规">Statue|法规</a> •
-  <a href="#Literature|文献">Liturature|文献</a> •
-  <a href="#People|学者">People|学者</a> •
-  <a href="#Conferences|会议">Conferences|会议</a> •
-  <a href="#Resources|资源">Resources|资源</a> •
-  <a href="#Others|其他">Others|其他</a> 
+  <a href="#Statue法规">Statue|法规</a> •
+  <a href="#Literature文献">Liturature|文献</a> •
+  <a href="#People学者">People|学者</a> •
+  <a href="#Conferences会议">Conferences|会议</a> •
+  <a href="#Resources资源">Resources|资源</a> •
+  <a href="#Others其他">Others|其他</a> 
 </p>
 
 
