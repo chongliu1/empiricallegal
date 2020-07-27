@@ -18,7 +18,7 @@
 </p>
 
 <div align = "right">
-  <a href="README_cn.md"> 简体中文</a>
+  <a href="README.md"> 简体中文</a>
 </div>
 
 
