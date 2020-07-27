@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**empiricallegal/empiricallegal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="img/logo-empiricallegal-long.png" width="400px"
+    </div>
 
-Here are some ideas to get you started:
+<h4 align="center">
+  Empirical Legal Study China
+</h4>
+<div align="center">
+	<img alt="APM" src="https://img.shields.io/apm/l/github">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imchongliu/empiricallegal">
+	</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#STATUE">Statue</a> •
+  <a href="#LITERATURE">Literature</a> •
+  <a href="#PEOPLE">People</a> •
+  <a href="#CONFERENCES">Conferences</a> •
+  <a href="#RESOURCES">Resources</a> •
+  <a href="#OTHERS">Others</a> 
+</p>
+
+<div align = "right">
+  <a href="README_cn.md"> 简体中文</a>
+</div>
+
+# STATUE
+
+# LITERATURE
+
+# PEOPLE
+
+# CONFERENCE
+
+# RESOURCES
+
+# OTHERS
