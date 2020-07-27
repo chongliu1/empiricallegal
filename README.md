@@ -7,6 +7,7 @@
 	<img alt="APM" src="https://img.shields.io/apm/l/github">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imchongliu/empiricallegal">
 	</div>
+
 <p align="center">
   <a href="#Statue|法规">Statue|法规</a> •
   <a href="#Literature|文献">Liturature|文献</a> •
