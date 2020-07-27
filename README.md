@@ -9,27 +9,28 @@
 	</div>
 
 <p align="center">
-  <a href="#Statue法规">Statue|法规</a> •
-  <a href="#Literature文献">Liturature|文献</a> •
-  <a href="#People学者">People|学者</a> •
-  <a href="#Conferences会议">Conferences|会议</a> •
-  <a href="#Resources资源">Resources|资源</a> •
-  <a href="#Others其他">Others|其他</a> 
+  <a href="#statue">Statue|法规</a> •
+  <a href="#literature">Liturature|文献</a> •
+  <a href="#people">People|学者</a> •
+  <a href="#conferences">Conferences|会议</a> •
+  <a href="#resources">Resources|资源</a> •
+  <a href="#others">Others|其他</a> 
 </p>
-# Statue|法规
+
+# [Statue|法规](statue)
 
 * [SPC](./statue-spc.md)
 
+# [Literature|文献](liturature)
 
 
-# Literature|文献
 
-# People|学者
+# [People|学者](people)
 
-# Conferences|会议
+# [Conferences|会议](conferences)
 
-# Resources|资源
+# [Resources|资源](resources)
 
-# Others|其他
+# [Others|其他](others)
 
 
