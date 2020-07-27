@@ -16,13 +16,12 @@
   <a href="#Resources资源">Resources|资源</a> •
   <a href="#Others其他">Others|其他</a> 
 </p>
-
-
-
-
 # Statue|法规
 
 * [SPC](./statue-spc.md)
+
+
+
 # Literature|文献
 
 # People|学者
