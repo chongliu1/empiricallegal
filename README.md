@@ -1,4 +1,4 @@
-<div align="center"><img src="img/logo-empiricallegal-long.png" width="300px"/></div>
+<div align="center"><img src="img/logo-empiricallegal-long.png" width="350px"/></div>
 
 <h4 align="center">
   中国法律实证研究
@@ -17,20 +17,18 @@
   <a href="#others">Others|其他</a> 
 </p>
 
-# [Statue|法规](statue)
+
+
+<h2 id="statue">Statue|法规</h2>
 
 * [SPC](./statue-spc.md)
 
-# [Literature|文献](liturature)
+<h2 id="literature"> Literature|文献</h2>
 
+<h2 id="people"> People|学者</h2>
 
+<h2 id="conferences"> Conferences|会议</h2>
 
-# [People|学者](people)
+<h2 id="resources"> Resources|资源</h2>
 
-# [Conferences|会议](conferences)
-
-# [Resources|资源](resources)
-
-# [Others|其他](others)
-
-
+<h2 id="others"> Others|其他</h2>
