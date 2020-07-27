@@ -2,7 +2,6 @@
 <div align="center">
     <img src="img/logo-empiricallegal-long.png" width="400px"
     </div>
-
 <h4 align="center">
   Empirical Legal Study China
 </h4>
