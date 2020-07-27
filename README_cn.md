@@ -17,7 +17,7 @@
   <a href="#其他">其他</a> 
 </p>
 <div align = "right">
-  <a href="README_cn.md"> English</a>
+  <a href="README.md"> English</a>
 </div>
 
 
