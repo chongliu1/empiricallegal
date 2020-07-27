@@ -1,4 +1,4 @@
-<div align="center"><img src="img/logo-empiricallegal-long.png" width="400px"/></div>
+﻿<div align="center"><img src="img/logo-empiricallegal-long.png" width="400px"/></div>
 
 <h4 align="center">
   中国实证法律研究
